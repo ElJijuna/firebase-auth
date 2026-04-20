@@ -1,0 +1,8 @@
+node_modules
+dist
+functions/lib
+.firebase
+.env
+.idea
+.vscode
+.DS_Store
