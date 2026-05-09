@@ -2,11 +2,7 @@
   "name": "firebase-auth",
   "version": "1.0.0",
   "description": "Firebase Authentication with GitLab and Bitbucket",
-  "author": {
-    "name": "pilmee",
-    "email": "pilmee@gmail.com",
-    "url": "https://eljijuna.github.io/ElJijuna/"
-  },
+  "author": "pilmee <pilmee@gmail.com> (https://github.com/ElJijuna)",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
